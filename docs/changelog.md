@@ -7,6 +7,11 @@
 - 🚨 Indicate the highest priority, requires urgent attention
 
 ## 📝 Tracked Changes
+
+### 1.7.1 (17.04.2023)
+
+- `smart_app#18` 🐞 support new activity types **Rangefee**, **InAppPayment** in filter and list
+
 ### 1.7.0 (12.04.2023)
 - `center` 🍀 implement In-App-Payment list
 - `smart_app` 🍀 support In-App-Payment feature

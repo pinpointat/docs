@@ -10,10 +10,6 @@
 
 Outlines necessary changes and milestones on delivering service updates.
 
-### 1.7.1 (17.04.2023)
-
-- `smart_app#18` 🐞 support new activity types **Rangefee**, **InAppPayment** in filter and list
-
 ### 1.8.0 (30.04.2023)
 
 - `center#34` 🍀 smart parking system
