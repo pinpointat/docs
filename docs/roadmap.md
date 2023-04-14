@@ -29,6 +29,9 @@ Information about identified problems or bugs in the service.
 
 Planned new features to be added to the service.
 
+- `center#35` 🍀 new device setup page for club
+- `center#36` 🍀 deletion of device
 - `smart_app#20` 🍀 support club wallet top-up with online payment
 - `smart_app#22` 🍀 display of club notifications
 - `smart_app#23` 🍀 offline notice
+- `smart_app#24` 🍀 display all permissions from registered clubs
