@@ -10,10 +10,19 @@
 
 Outlines necessary changes and milestones on delivering service updates.
 
-### 1.8.0 (30.04.2023)
+### 30.04.2023
+
+#### 1.8.0 (smart_app)
+
+- `smart_app#21` 🍀 support parking system
+
+#### 1.10.0 (center)
 
 - `center#34` 🍀 smart parking system
-- `smart_app#21` 🍀 support parking system
+
+### May 2023
+
+- `smart_app#22` 🍀 display of club notifications
 
 ## ⚠️ Known Issues
 
@@ -23,12 +32,11 @@ Information about identified problems or bugs in the service.
 - `center#26` 🐞 support dispute open transactions
 - `center#32` 🍀 improve statistics activities list
 - `center#33` 🍀 improve statistics transactions list
-- `smart_app#19` 🍀 display indicator if current filter is currently active during Club Signup process
 
 ## 🛠️ New Features
 
 Planned new features to be added to the service.
 
+- `smart_app#19` 🍀 display indicator if current filter is currently active during Club Signup process
 - `smart_app#20` 🍀 support club wallet top-up with online payment
-- `smart_app#22` 🍀 display of club notifications
-- `smart_app#23` 🍀 offline notice
+- `smart_app#23` 🍀 device is offline notice/indicator

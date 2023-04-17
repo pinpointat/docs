@@ -8,12 +8,20 @@
 
 ## 📝 Tracked Changes
 
-### 1.7.1 (17.04.2023)
+### 17.04.2023
+
+### 1.9.0 (smart_app)
 
 - `smart_app#18` 🐞 support new activity types **Rangefee**, **InAppPayment** in filter and list
 
-### 1.7.0 (12.04.2023)
+### 12.04.2023
+
+#### 1.9.0 (center)
+
 - `center` 🍀 implement In-App-Payment list
+
+#### 1.7.0 (smart_app)
+
 - `smart_app` 🍀 support In-App-Payment feature
 - `smart_app` 🐞 bugfixes and minor improvements
 
