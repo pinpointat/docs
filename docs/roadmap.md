@@ -12,11 +12,11 @@ Outlines necessary changes and milestones on delivering service updates.
 
 ### 30.04.2023
 
-#### 1.8.0 (smart_app)
+#### **1.8.0 (smart_app)**
 
 - `smart_app#21` 🍀 support parking system
 
-#### 1.10.0 (center)
+#### **1.10.0 (center)**
 
 - `center#34` 🍀 smart parking system
 
