@@ -8,6 +8,24 @@
 
 ## 📝 Tracked Changes
 
+### 27.04.2023
+
+#### **1.9.3 (center)**
+
+- `center` 🍀 extend country list selection
+
+### 21.04.2023
+
+#### **1.9.2 (center)**
+
+- `center` 🐞 fix permission group list for account
+
+### 20.04.2023
+
+#### **1.9.1 (center)**
+
+- `center` 🐞 fix activity filter
+
 ### 17.04.2023
 
 #### **1.9.0 (smart_app)**
