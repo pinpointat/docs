@@ -10,7 +10,11 @@
 
 Outlines necessary changes and milestones on delivering service updates.
 
-### November 2023
+### September 2023
+
+- `center#53` 🍀 track ball quantity from BVM transactions
+
+### October 2023
 
 - `smart_app#22` 🍀 display of club notifications
 
