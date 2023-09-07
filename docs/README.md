@@ -14,9 +14,9 @@ The ecosystem comprises Center, Smart Controller, Smart App which will be descri
 
 Refers to the most up-to-date versions of software or technology products that are currently available to users.
 
-|                     | Build | Version |
-|---------------------|-------|---------|
-| Center              | `211` | `1.9.3` |
-| Smart App (iOS)     | `20`  | `1.7.1` |
-| Smart App (Android) | `32`  | `1.7.1` |
-| Smart Controller    | `-`   | `1.2.1` |
+|                     | Build | Version  |
+|---------------------|-------|----------|
+| Center              | `253` | `1.11.2` |
+| Smart App (iOS)     | `24`  | `1.8.3`  |
+| Smart App (Android) | `36`  | `1.8.3`  |
+| Smart Controller    | `-`   | `1.2.1`  |
