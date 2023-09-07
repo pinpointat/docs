@@ -14,6 +14,10 @@
 
 - `smart_app#31` 🐞 fix support Italy country in club filter
 
+#### **1.11.3 (center)**
+
+- `center#53` 🍀 track ball quantity from BVM transactions
+
 #### **1.11.2 (center)**
 
 - `center#46` 🍀 allow exporting of all accounts for root user
