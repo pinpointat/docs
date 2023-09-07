@@ -9,6 +9,7 @@
 ## 📝 Tracked Changes
 
 ### 06.09.2023
+
 ### **1.8.3 (smart_app)**
 
 - `smart_app#00` 🐞 fix support Italy country in club filter
