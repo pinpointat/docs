@@ -10,7 +10,7 @@
 
 Outlines necessary changes and milestones on delivering service updates.
 
-### September 2023
+### November 2023
 
 - `smart_app#22` 🍀 display of club notifications
 

@@ -8,6 +8,33 @@
 
 ## 📝 Tracked Changes
 
+### 06.09.2023
+### **1.8.3 (smart_app)**
+
+- `smart_app#00` 🐞 fix support Italy country in club filter
+
+### **1.11.2 (center)**
+
+- `center#46` 🍀 allow exporting of all accounts for root user
+- `center#47` 🐞 fix filter account registration status
+- `center#48` 🐞 fix payout computation and statistics view improvement
+- `center#50` 🐞 fix account deletion
+- `center#51` 🐞 fix wallet amount modification with decimal number
+- `center#49` 🍀 migrate facility and traction purpose from activity to account transactions
+- `center#52` 🐞 fix excel export with formatted number cells
+
+### 13.08.2023
+
+### **1.8.2 (smart_app)**
+
+- `smart_app#33` 🐞 fix loading of facility logo via new api
+
+### 12.08.2023
+
+### **1.8.1 (smart_app)**
+
+- `smart_app#32` 🐞 fix device controller not reactive
+
 ### 06.08.2023
 
 #### **1.8.0 (smart_app)**
@@ -21,6 +48,7 @@
 - `smart_app#30` 🍀 preconfigured payment reason 
 
 #### **1.10.0 (center)**
+
 - `center#23` 🍀 improve account list
 - `center#32` 🍀 improve statistics activities list
 - `center#33` 🍀 improve statistics transactions list
