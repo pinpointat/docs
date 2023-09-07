@@ -12,16 +12,16 @@
 
 ### **1.8.3 (smart_app)**
 
-- `smart_app#00` 🐞 fix support Italy country in club filter
+- `smart_app#31` 🐞 fix support Italy country in club filter
 
 ### **1.11.2 (center)**
 
 - `center#46` 🍀 allow exporting of all accounts for root user
 - `center#47` 🐞 fix filter account registration status
 - `center#48` 🐞 fix payout computation and statistics view improvement
+- `center#49` 🍀 migrate facility and traction purpose from activity to account transactions
 - `center#50` 🐞 fix account deletion
 - `center#51` 🐞 fix wallet amount modification with decimal number
-- `center#49` 🍀 migrate facility and traction purpose from activity to account transactions
 - `center#52` 🐞 fix excel export with formatted number cells
 
 ### 13.08.2023
