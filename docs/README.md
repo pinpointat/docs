@@ -16,7 +16,7 @@ Refers to the most up-to-date versions of software or technology products that a
 
 |                     | Build | Version  |
 |---------------------|-------|----------|
-| Center              | `253` | `1.11.2` |
-| Smart App (iOS)     | `24`  | `1.8.3`  |
-| Smart App (Android) | `36`  | `1.8.3`  |
-| Smart Controller    | `-`   | `1.2.1`  |
+| Center              | `445` | `3.0.8`  |
+| Smart App (iOS)     | `36`  | `1.13.0` |
+| Smart App (Android) | `48`  | `1.13.0` |
+| Smart Controller    | `-`   | `1.4.0`  |

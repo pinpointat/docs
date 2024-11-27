@@ -8,6 +8,32 @@
 
 ## 📝 Tracked Changes
 
+### 📅 27.11.2024
+
+#### **1.13.0 (smart_app)**
+
+- `smart_app#19` 🍀 display indicator if current filter is currently active during Club Signup process
+- `smart_app#22` 🍀 display of club notifications
+- `smart_app#24` 🍀 display all permissions from registered clubs
+
+#### **3.0.8 (center)**
+
+- `center#..` 🍀 software update, various rework and optimize api and database performance  
+- `center#..` 🍀 major release v3.x
+- `center#67` 🍀 allow rangefee to be set by staff user
+- `center#58` 🍀 allow price markup in cost adjustment
+- `center#72` 🐞 computing error on book in sum, amounts of club wallets and pin point wallets were mixed up
+- `center#75` 🍀 custom price for pin point wallet
+
+#### **1.4.0** (smart_controller)
+
+- `smart_controller#..` 🍀 support `PSMART-02`, `PSMART-03`, `PSMART-03-MINI` models
+
+#### **1.3.0** (smart_controller)
+
+- `smart_controller#..` 🐞 improve performance stability
+- `smart_controller#..` 🚨 fix freezing issue
+
 ### 📅 06.09.2023
 
 #### **1.8.3 (smart_app)**
